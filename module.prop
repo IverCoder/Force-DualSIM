@@ -3,5 +3,5 @@ name=Force Dual SIM
 version=v1
 versionCode=1
 author=IverCoder
-description=Force dual SIM if your phone firmware incorrectly declares an incorrect ammount of SIM card slots.
+description=Force dual SIM if your phone firmware incorrectly declares an incorrect amount of SIM card slots.
 updateJson=https://raw.githubusercontent.com/IverCoder/Force-DualSIM/main/update.json

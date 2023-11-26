@@ -1,6 +1,6 @@
 # Force Dual SIM
 
-Force Generic System Images (GSI) to recognize your phone as Dual SIM if your firmware incorrectly reports the ammount of your SIM card slots.
+Force dual SIM if your phone firmware incorrectly declares an incorrect amount of SIM card slots. Fixes Generic System Images (GSI) thinking that your phone has three SIM slots.
 
 ## Installation
 

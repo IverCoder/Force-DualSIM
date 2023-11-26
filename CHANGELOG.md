@@ -1,4 +1,4 @@
-# v2
+# v1.1
 Fixed a typo in the module description.
 
 # v1
